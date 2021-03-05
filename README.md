@@ -57,6 +57,8 @@ If you haven't run the flash yet you can do it using the command said above.
 ```
 Wait patiently, don't disconnect anything, stay in the ssh connection. Mine was about 10 minutes install. When the install started the fans went 100% don't worry about that. ^-^
 
+[![SwitchImg](https://i.ibb.co/sgN9J63/FLASH.png)](https://github.com/XaviFortes/)
+
 ### After Flash
 
 Nice, if you have succesfully installed the modded version now you can SSH the ILO and have access to the command fan and many others. I just have used the FAN command.
