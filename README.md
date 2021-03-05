@@ -44,10 +44,10 @@ The folders should look like this.
 ```sqf
 Home/Root Folder
 +---ilo_250 folder 
-|   \--CP027911.xml
-|   |--flash_ilo4
-|   |--ilo4_250.bin
-|   |--README.txt
+    \--CP027911.xml
+    |--flash_ilo4
+    |--ilo4_250.bin
+    |--README.txt
 ```
 ### FLASH
 
@@ -57,7 +57,7 @@ If you haven't run the flash yet you can do it using the command said above.
 ```
 Wait patiently, don't disconnect anything, stay in the ssh connection. Mine was about 10 minutes install. When the install started the fans went 100% don't worry about that. ^-^
 
-###After Flash
+### After Flash
 
 Nice, if you have succesfully installed the modded version now you can SSH the ILO and have access to the command fan and many others. I just have used the FAN command.
 
