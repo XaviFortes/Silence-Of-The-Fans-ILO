@@ -80,3 +80,7 @@ https://github.com/XaviFortes/HP-ILO-Fan-Control
 
 Depending on the cpu if spins up the left side or right comparing which cpu it's warmer.
 It maxes out speed when one of the cpu go over 67 degrees celsius to avoid shutdowns and other possible issues. 
+
+### Recommended Use For HP DL380p G8
+If you're using this server the recommended settings that will set the fans to XX% is being decided by the ILO not from the temp of the CPU. Let's say that what it does is changing the threshold of the ILO and it's temperature settings.
+You can find this file at: https://github.com/XaviFortes/Silence-Of-The-Fans-ILO/blob/main/SetAutoFans.sh
